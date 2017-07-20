@@ -6,3 +6,4 @@ postalcode.egg-info/dependency_links.txt
 postalcode.egg-info/top_level.txt
 taiwan/TWcode.py
 taiwan/__init__.py
+taiwan/zip_code.xlsx

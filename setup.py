@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'postalcode',
+    name = 'taiwan',
     #packages = ['tryanderror'],
     packages = find_packages(),
-    version = '1.3',
+    version = '1.4',
     description = 'pip install postalcode',
     author = 'ekils',
     author_email = 'bobobo746@hotmail.com',
