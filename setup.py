@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'taiwan',
+    name = 'postalcode',
     #packages = ['tryanderror'],
     packages = find_packages(),
     version = '1.4',
@@ -12,5 +12,5 @@ setup(
     download_url = 'https://github.com/ekils/postalcode.git',
     keywords = ['Good Project'],
     classifiers = [],
-    package_data = {'taiwan': ['*.xlsx']},
+    package_data = {'postalcode': ['taiwan/*.xlsx']},
 )

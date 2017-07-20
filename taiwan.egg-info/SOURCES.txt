@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+taiwan/TWcode.py
+taiwan/__init__.py
+taiwan/zip_code.xlsx
+taiwan.egg-info/PKG-INFO
+taiwan.egg-info/SOURCES.txt
+taiwan.egg-info/dependency_links.txt
+taiwan.egg-info/top_level.txt
