@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+postalcode.egg-info/PKG-INFO
+postalcode.egg-info/SOURCES.txt
+postalcode.egg-info/dependency_links.txt
+postalcode.egg-info/top_level.txt
+taiwan/TWcode.py
+taiwan/__init__.py
