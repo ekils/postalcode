@@ -4,7 +4,7 @@ setup(
     name = 'postalcode',
     #packages = ['tryanderror'],
     packages = find_packages(),
-    version = '1.4',
+    version = '1.5',
     description = 'pip install postalcode',
     author = 'ekils',
     author_email = 'bobobo746@hotmail.com',
@@ -12,5 +12,5 @@ setup(
     download_url = 'https://github.com/ekils/postalcode.git',
     keywords = ['Good Project'],
     classifiers = [],
-    package_data = {'postalcode': ['taiwan/*.xlsx']},
+    package_data = {'taiwan': 'zip_code.xlsx'},
 )
