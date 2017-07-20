@@ -12,5 +12,5 @@ setup(
     download_url = 'https://github.com/ekils/postalcode.git',
     keywords = ['Good Project'],
     classifiers = [],
-
+    package_data = {'postalcode': ['*.xlsx']},
 )
