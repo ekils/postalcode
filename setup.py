@@ -4,7 +4,7 @@ setup(
     name = 'postalcode',
     #packages = ['tryanderror'],
     packages = find_packages(),
-    version = '1.1',
+    version = '1.2',
     description = 'pip install postalcode',
     author = 'ekils',
     author_email = 'bobobo746@hotmail.com',
